@@ -12,5 +12,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Robot" height="30" width="40" src="https://www.svgrepo.com/show/374049/robotframework.svg">
-  <img align="center" alt="Robot" height="30" width="40" src="https://www.svgrepo.com/show/374049/robotframework.svg](https://www.cypress.io/_astro/navbar-brand.D87396b0.svg">
+  <img align="center" alt="Cypress" height="30" width="40" src="![image](https://github.com/user-attachments/assets/338885c2-41e3-4336-8c2b-48af5ba852fa)
+">
 </div>
