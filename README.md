@@ -1,7 +1,7 @@
 ### Olá👋
 
 
-- 🔭 Hoje trabalho como Analista de Suporte 
+- 🔭 Hoje trabalho como Analista de Qualidade
 - 🌱 Estudando Javascript | React | UI/UX
 
 
