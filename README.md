@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Analista de Qualidade
-- 🌱 Estudando Javascript | React | UI/UX
+- 🌱 Estudando Javascript | React | Automação de testes
 
 
 <div style="display: inline_block"><br>
