@@ -1,7 +1,7 @@
 ### Olá👋
 
 
-- 🔭 Hoje trabalho como Analista de Qualidade
+- 🔭 Analista de Qualidade
 - 🌱 Automação de testes| estudando Javascript | 
 
 
